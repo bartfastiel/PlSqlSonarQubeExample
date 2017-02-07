@@ -4,7 +4,7 @@ Example project of a minimal setup to analyze PL/SQL code
 ## Helpful links
 
 - Plugin marketing documentation: https://www.sonarsource.com/why-us/products/languages/plsql.html
-- Plugin technical documentation and download: http://dist.sonarsource.com/reports/coverage/rules/plsql_rules_coverage.html
+- Plugin technical documentation and download: https://docs.sonarqube.org/pages/viewpage.action?pageId=6389850
 - Rule overview: http://dist.sonarsource.com/reports/coverage/rules/plsql_rules_coverage.html
 - Current findings in open-source projects (cloud service): https://sonarqube.com/issues#languages=plsql
 
